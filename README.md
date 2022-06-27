@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Star Launcher](https://play.google.com/store/apps/details?id=com.mobiistar.launcherin)
 
-- 🌱 I’m currently learning **Swift, React Native, Flutter, NodeJS**
+- 🌱 I’m currently learning Swift, Flutter
 
 - 👨‍💻 All of my projects are available at [https://github.com/minhdangoz](https://github.com/minhdangoz)
 
