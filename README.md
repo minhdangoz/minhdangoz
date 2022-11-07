@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">A passionate Android developer from Vietnam</h3>
+<h3 align="center">A passionate Mobile developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhdangoz&label=Profile%20views&color=0e75b6&style=flat" alt="minhdangoz" /> </p>
 
